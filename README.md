@@ -24,6 +24,7 @@ dependencies{
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
+**SmartTextView inherits all the properties and methods of TextView. So I just introduce a few more special methods.**
 | Method | Meaning |
 |--------------|-------|
 | void textAppend(String text) | Appends the **text** string to the existing string in SmartTextView |
