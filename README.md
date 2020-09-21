@@ -15,6 +15,7 @@ dependencies{
  ```
 ## Use
 ```xml
+**Add .xml file**
 <com.notin.text.SmartTextView
         android:id="@+id/txt_smart"
         android:layout_width="wrap_content"
