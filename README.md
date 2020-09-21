@@ -13,7 +13,7 @@ allprojects{
 
 dependencies{
     ...
-    implementation 'com.github.novatien:SmartTextView:1.0.1'
+    implementation 'com.github.novatien:SmartTextView:1.01'
 }
  ```
 ## Use
